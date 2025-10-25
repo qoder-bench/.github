@@ -6,11 +6,14 @@ various code generation models.
 The benchmarks cover a wide range of programming tasks and languages, allowing researchers and developers to assess the
 capabilities of different models in generating accurate and efficient code.
 
-## Frontend Projects
+## Node.js Projects
 
 - [vite-react-ts-demo](https://github.com/qoder-bench/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and Tailwind CSS
 - [vite-svelte-ts-demo](https://github.com/qoder-bench/vite-svelte-ts-demo): Svelete demo with TypeScript, Tailwind CSS
   and Vite.js
+- [bun-react-demo](https://github.com/qoder-bench/bun-react-demo): Bun full-stack demo with React.js and backend
+- [astro-demo](https://github.com/qoder-bench/astro-demo): Astro demo with Tailwind CSS
+
 
 ## Java Projects
 
