@@ -6,7 +6,7 @@ various code generation models.
 The benchmarks cover a wide range of programming tasks and languages, allowing researchers and developers to assess the
 capabilities of different models in generating accurate and efficient code.
 
-## Node.js Projects
+## ｡🇯‌🇸‌ Node.js Projects
 
 - [vite-react-ts-demo](https://github.com/qoder-bench/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and
   Tailwind CSS
@@ -18,7 +18,7 @@ capabilities of different models in generating accurate and efficient code.
 - [nextjs-demo](https://github.com/qoder-bench/nextjs-demo): Next.js demo
 - [hono-node-demo](https://github.com/qoder-bench/hono-node-demo): Hono demo on Node.js
 
-## Java Projects
+## ☕ Java Projects
 
 - [spring-boot-jdbc-mysql-demo](https://github.com/qoder-bench/spring-boot-jdbc-mysql-demo): Spring Boot application
   with MySQL and JDBC
@@ -29,8 +29,15 @@ capabilities of different models in generating accurate and efficient code.
 - [MyBatis Spring Boot Demo](https://github.com/qoder-bench/mybatis-spring-demo): MyBatis demo with Spring Boot
 - [vaadin-demo](https://github.com/qoder-bench/vaadin-demo): Vaadin demo with Spring Boot and H2
 
-## Python Projects
+## 🐍 Python Projects
 
 - [flask-sqlite-demo](https://github.com/qoder-bench/flask-sqlite-demo): Flask demmo with SQLite and SQLAlchemy
 - [fastapi-sqlite-demo](https://github.com/qoder-bench/fastapi-sqlite-demo): FastAPI demo with SQLite and SQLModel
 - [langchain-demo](https://github.com/qoder-bench/langchain-demo): Langchain Python demo
+
+## 🦀Rust Projects
+
+- [axum-demo](https://github.com/qoder-bench/Axum-demo): Axum demo with SQLite
+- [Clap-demo](https://github.com/qoder-bench/clap-demo): Clap.rs demo for building CLI applications
+
+## 🐹 Golang projects
