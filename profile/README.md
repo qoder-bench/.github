@@ -14,6 +14,8 @@ capabilities of different models in generating accurate and efficient code.
   and Vite.js
 - [bun-react-demo](https://github.com/qoder-bench/bun-react-demo): Bun full-stack demo with React.js and backend
 - [astro-demo](https://github.com/qoder-bench/astro-demo): Astro demo with Tailwind CSS
+- [fresh-demo](https://github.com/qoder-bench/fresh-demo): Deno Fresh framework demo
+- [nextjs-demo](https://github.com/qoder-bench/nextjs-demo): Next.js demo
 
 ## Java Projects
 
@@ -30,3 +32,4 @@ capabilities of different models in generating accurate and efficient code.
 
 - [flask-sqlite-demo](https://github.com/qoder-bench/flask-sqlite-demo): Flask demmo with SQLite and SQLAlchemy
 - [fastapi-sqlite-demo](https://github.com/qoder-bench/fastapi-sqlite-demo): FastAPI demo with SQLite and SQLModel
+- [langchain-demo](https://github.com/qoder-bench/langchain-demo): Langchain Python demo
