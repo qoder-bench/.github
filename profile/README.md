@@ -8,12 +8,12 @@ capabilities of different models in generating accurate and efficient code.
 
 ## Node.js Projects
 
-- [vite-react-ts-demo](https://github.com/qoder-bench/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and Tailwind CSS
+- [vite-react-ts-demo](https://github.com/qoder-bench/vite-react-ts-demo): React.js demo with Vite.js, TypeScript and
+  Tailwind CSS
 - [vite-svelte-ts-demo](https://github.com/qoder-bench/vite-svelte-ts-demo): Svelete demo with TypeScript, Tailwind CSS
   and Vite.js
 - [bun-react-demo](https://github.com/qoder-bench/bun-react-demo): Bun full-stack demo with React.js and backend
 - [astro-demo](https://github.com/qoder-bench/astro-demo): Astro demo with Tailwind CSS
-
 
 ## Java Projects
 
@@ -23,6 +23,8 @@ capabilities of different models in generating accurate and efficient code.
 - [cargotracker](https://github.com/qoder-bench/cargotracker): The project demonstrates how you can develop applications
   with Jakarta EE using widely adopted architectural best practices like Domain-Driven Design (DDD).
 - [swagger-petstore](https://github.com/qoder-bench/swagger-petstore): Swagger Petstore Sample
+- [MyBatis Spring Boot Demo](https://github.com/qoder-bench/mybatis-spring-demo): MyBatis demo with Spring Boot
+- [vaadin-demo](https://github.com/qoder-bench/vaadin-demo): Vaadin demo with Spring Boot and H2
 
 ## Python Projects
 
