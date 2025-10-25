@@ -16,6 +16,7 @@ capabilities of different models in generating accurate and efficient code.
 - [astro-demo](https://github.com/qoder-bench/astro-demo): Astro demo with Tailwind CSS
 - [fresh-demo](https://github.com/qoder-bench/fresh-demo): Deno Fresh framework demo
 - [nextjs-demo](https://github.com/qoder-bench/nextjs-demo): Next.js demo
+- [hono-node-demo](https://github.com/qoder-bench/hono-node-demo): Hono demo on Node.js
 
 ## Java Projects
 
