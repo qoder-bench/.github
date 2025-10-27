@@ -19,6 +19,7 @@ capabilities of different models in generating accurate and efficient code.
 - [hono-node-demo](https://github.com/qoder-bench/hono-node-demo): Hono demo on Node.js
 - [react-ts-demo](https://github.com/qoder-bench/react-ts-demo) React.js demo with TypeScript
 - [react-js-demo](https://github.com/qoder-bench/react-js-demo) React.js demo with JavaScript
+- [vite-react-whiteboard-demo](https://github.com/qoder-bench/vite-react-whiteboard-demo) React.js demo with Vite.js, TypeScript
 
 ## ☕ Java Projects
 
