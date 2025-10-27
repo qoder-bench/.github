@@ -41,3 +41,5 @@ capabilities of different models in generating accurate and efficient code.
 - [Clap-demo](https://github.com/qoder-bench/clap-demo): Clap.rs demo for building CLI applications
 
 ## 🐹 Golang projects
+
+- [gofr-demo](https://github.com/qoder-bench/gofr-demo): A demo project for GoFR framework
