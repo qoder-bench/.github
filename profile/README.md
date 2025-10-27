@@ -38,6 +38,7 @@ capabilities of different models in generating accurate and efficient code.
 ## 🦀Rust Projects
 
 - [axum-demo](https://github.com/qoder-bench/Axum-demo): Axum demo with SQLite
+- [actix-web-demo](https://github.com/qoder-bench/actix-web-demo): Actix Web demo
 - [Clap-demo](https://github.com/qoder-bench/clap-demo): Clap.rs demo for building CLI applications
 
 ## 🐹 Golang projects
