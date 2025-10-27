@@ -44,3 +44,4 @@ capabilities of different models in generating accurate and efficient code.
 ## 🐹 Golang projects
 
 - [gofr-demo](https://github.com/qoder-bench/gofr-demo): A demo project for GoFR framework
+- [cobra-demo](https://github.com/qoder-bench/cobra-demo): Cobra CLI demo
