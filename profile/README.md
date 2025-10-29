@@ -46,3 +46,8 @@ capabilities of different models in generating accurate and efficient code.
 - [gin-demo](https://github.com/qoder-bench/gin-demo): Gin web demo
 - [gofr-demo](https://github.com/qoder-bench/gofr-demo): A demo project for GoFR framework
 - [cobra-demo](https://github.com/qoder-bench/cobra-demo): Cobra CLI demo
+
+
+## Misc projects
+
+- [nginx-demo](https://github.com/qoder-bench/nginx-demo): Nginx and OpenResty demo
