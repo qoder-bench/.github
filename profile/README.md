@@ -49,7 +49,8 @@ capabilities of different models in generating accurate and efficient code.
 - [cobra-demo](https://github.com/qoder-bench/cobra-demo): Cobra CLI demo
 - [gitea](https://github.com/qoder-bench/gitea) A self-hosted Git service with Chi
 
-
 ## 🤖 Misc projects
 
 - [nginx-demo](https://github.com/qoder-bench/nginx-demo): Nginx and OpenResty demo
+- [database-demo](https://github.com/qoder-bench/database-demo): Database demo project for various databases.
+
