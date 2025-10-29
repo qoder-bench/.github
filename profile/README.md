@@ -50,6 +50,6 @@ capabilities of different models in generating accurate and efficient code.
 - [gitea](https://github.com/qoder-bench/gitea) A self-hosted Git service with Chi
 
 
-## Misc projects
+## 🤖 Misc projects
 
 - [nginx-demo](https://github.com/qoder-bench/nginx-demo): Nginx and OpenResty demo
