@@ -34,6 +34,7 @@ capabilities of different models in generating accurate and efficient code.
 - [flask-sqlite-demo](https://github.com/qoder-bench/flask-sqlite-demo): Flask demmo with SQLite and SQLAlchemy
 - [fastapi-sqlite-demo](https://github.com/qoder-bench/fastapi-sqlite-demo): FastAPI demo with SQLite and SQLModel
 - [langchain-demo](https://github.com/qoder-bench/langchain-demo): Langchain Python demo
+- [OpenManus](https://github.com/qoder-bench/OpenManus): Agent implemented in Python
 
 ## 🦀Rust Projects
 
@@ -46,6 +47,7 @@ capabilities of different models in generating accurate and efficient code.
 - [gin-demo](https://github.com/qoder-bench/gin-demo): Gin web demo
 - [gofr-demo](https://github.com/qoder-bench/gofr-demo): A demo project for GoFR framework
 - [cobra-demo](https://github.com/qoder-bench/cobra-demo): Cobra CLI demo
+- [gitea](https://github.com/qoder-bench/gitea) A self-hosted Git service with Chi
 
 
 ## Misc projects
