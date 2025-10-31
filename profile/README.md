@@ -53,4 +53,5 @@ capabilities of different models in generating accurate and efficient code.
 
 - [nginx-demo](https://github.com/qoder-bench/nginx-demo): Nginx and OpenResty demo
 - [database-demo](https://github.com/qoder-bench/database-demo): Database demo project for various databases.
+- [devops-demo](https://github.com/qoder-bench/devops-demo): DevOps toolbox demo
 
